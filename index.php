@@ -13,8 +13,8 @@
 				<article>
 					<h1>Mon super titre</h1>
 					<div class="meta-data">
-						<span class="category">Catégorie: ma catégorie</span>
-						<span class="creation-date">Date: 23/09/2017</span>
+						<span class="category">Catégorie: ma catégorie</span> -
+						<span class="creation-date">Date: 23/09/2017</span> -
 						<span class="author">Auteur: Vanessa</span>
 					</div>
 					<p>
